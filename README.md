@@ -1,1 +1,2 @@
-# Programación Competitiva FIC-UAS 2022
+# Coding Cup Sinaloa
+## Programación Competitiva 
