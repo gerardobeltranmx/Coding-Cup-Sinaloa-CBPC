@@ -1,1 +1,1 @@
-# Coding-Cup-Sinaloa-CBPC
+# Programación Competitiva FIC-UAS 2022
